@@ -1,1 +1,1 @@
-# verilog-HDL-Hardware-Description-Language-
+# verilog HDL(Hardware Description Language)
