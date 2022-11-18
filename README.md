@@ -9,7 +9,7 @@
 ## Flip-Flop
   - [SR]()
   - [JK]()
-  - [D]()
+  - [D](https://github.com/Shakil-RU/verilog_HDL/blob/main/Flip-Flop/D%20flip-flop)
   - [T]()
   - [Master-Slave]()
 ## Adder
