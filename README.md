@@ -6,7 +6,7 @@
   - [AND](https://github.com/Shakil-RU/verilog_HDL/blob/main/Basic%20Gates/AND%20gate.v)
   - [NAND](https://github.com/Shakil-RU/verilog_HDL/blob/main/Basic%20Gates/NAND%20gate.v)
   - [NOR](https://github.com/Shakil-RU/verilog_HDL/blob/main/Basic%20Gates/NOR%20gate.v)
-  - [X-OR](https://github.com/Shakil-RU/verilog_HDL/blob/main/Basic%20Gates/X-OR%20gate)
+  - [X-OR](https://github.com/Shakil-RU/verilog_HDL/blob/main/Basic%20Gates/X-OR%20gate.v)
   - [X-NOR](https://github.com/Shakil-RU/verilog_HDL/blob/main/Basic%20Gates/x-nor%20gate)
 ## Flip-Flop
   - [JK](https://github.com/Shakil-RU/verilog_HDL/blob/main/Flip-Flop/JK)
