@@ -20,7 +20,7 @@
   - [4-bit Ripple carry adder](https://github.com/Shakil-RU/verilog_HDL/blob/main/Adder/4%20bit%20Ripple%20carry%20adder)
   - [carry look ahead adder]()
 ## Subtractor
-  - [half subtractor]()
+  - [half subtractor](https://github.com/Shakil-RU/verilog_HDL/blob/main/Subtractor/half%20subtractor.v)
   - [full subtractor]()
 ## Code converter
  - [Binary to Gray]()
