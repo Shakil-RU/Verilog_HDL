@@ -4,6 +4,8 @@
   - [NOT](https://github.com/Shakil-RU/verilog_HDL/blob/main/Basic%20Gates/not)
   - [OR](https://github.com/Shakil-RU/verilog_HDL/blob/main/Basic%20Gates/OR%20gate)
   - [AND](https://github.com/Shakil-RU/verilog_HDL/blob/main/Basic%20Gates/AND%20gate)
+  - [NAND](https://github.com/Shakil-RU/verilog_HDL/blob/main/Basic%20Gates/NAND%20gate)
+  - [NOR]()
   - [X-OR]()
   - [X-NOR]()
 ## Flip-Flop
