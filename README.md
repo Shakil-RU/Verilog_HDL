@@ -25,7 +25,7 @@
 ## Code converter
  - [Binary to Gray]()
  - [Gray to Binary]()
- - [BCD to Excess-3]()
+ - [BCD to Excess-3](https://github.com/Shakil-RU/verilog_HDL/blob/main/Code%20converter/BCD_To_Excess-3.v)
  - [Excess-3 to BCD]()
 ## Encoder and Decoder
  - [3 to 8 decoder]()
