@@ -1,7 +1,7 @@
 # verilog HDL(Hardware Description Language)
 
  ## Basic Gates
-  - [NOT]()
+  - [NOT](https://github.com/Shakil-RU/verilog_HDL/blob/main/Basic%20Gates/not)
   - [OR]()
   - [AND]()
   - [X-OR]()
