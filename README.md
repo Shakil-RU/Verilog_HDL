@@ -7,7 +7,6 @@
   - [X-OR]()
   - [X-NOR]()
 ## Flip-Flop
-  - [SR]()
   - [JK]()
   - [D](https://github.com/Shakil-RU/verilog_HDL/blob/main/Flip-Flop/D%20flip-flop)
   - [T]()
