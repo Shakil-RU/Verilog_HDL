@@ -14,7 +14,7 @@
   - [T](https://github.com/Shakil-RU/verilog_HDL/blob/main/Flip-Flop/T%20flip-flop)
   - [Master-Slave](https://github.com/Shakil-RU/verilog_HDL/blob/main/Flip-Flop/master%20slave%20jk)
 ## Adder
-  - [half-adder]()
+  - [half-adder](https://github.com/Shakil-RU/verilog_HDL/blob/main/Adder/Half%20Adder)
   - [full-adder]()
   - [full adder using half adder]()
   - [4-bit Ripple carry adder]()
