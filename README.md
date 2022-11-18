@@ -11,7 +11,7 @@
 ## Flip-Flop
   - [JK](https://github.com/Shakil-RU/verilog_HDL/blob/main/Flip-Flop/JK)
   - [D](https://github.com/Shakil-RU/verilog_HDL/blob/main/Flip-Flop/D%20flip-flop)
-  - [T]()
+  - [T](https://github.com/Shakil-RU/verilog_HDL/blob/main/Flip-Flop/T%20flip-flop)
   - [Master-Slave](https://github.com/Shakil-RU/verilog_HDL/blob/main/Flip-Flop/master%20slave%20jk)
 ## Adder
   - [half-adder]()
