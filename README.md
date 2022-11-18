@@ -2,7 +2,7 @@
 
  ## Basic Gates
   - [NOT](https://github.com/Shakil-RU/verilog_HDL/blob/main/Basic%20Gates/not)
-  - [OR]()
+  - [OR](https://github.com/Shakil-RU/verilog_HDL/blob/main/Basic%20Gates/OR%20gate)
   - [AND]()
   - [X-OR]()
   - [X-NOR]()
