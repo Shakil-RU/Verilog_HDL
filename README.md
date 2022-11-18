@@ -15,7 +15,7 @@
   - [Master-Slave](https://github.com/Shakil-RU/verilog_HDL/blob/main/Flip-Flop/master%20slave%20jk)
 ## Adder
   - [half-adder](https://github.com/Shakil-RU/verilog_HDL/blob/main/Adder/Half%20Adder)
-  - [full-adder]()
+  - [full-adder](https://github.com/Shakil-RU/verilog_HDL/blob/main/Adder/Half%20Adder)
   - [full adder using half adder]()
   - [4-bit Ripple carry adder]()
   - [carry look ahead adder]()
