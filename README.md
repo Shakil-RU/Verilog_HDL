@@ -16,7 +16,7 @@
 ## Adder
   - [half-adder](https://github.com/Shakil-RU/verilog_HDL/blob/main/Adder/Half%20Adder)
   - [full-adder](https://github.com/Shakil-RU/verilog_HDL/blob/main/Adder/Half%20Adder)
-  - [full adder using half adder]()
+  - [full adder using half adder](https://github.com/Shakil-RU/verilog_HDL/blob/main/Adder/Full%20Adder%20using%20half%20adder)
   - [4-bit Ripple carry adder]()
   - [carry look ahead adder]()
 ## Subtractor
