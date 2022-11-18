@@ -10,7 +10,7 @@
   - [X-NOR](https://github.com/Shakil-RU/verilog_HDL/blob/main/Basic%20Gates/x-nor%20gate.v)
 ## Flip-Flop
   - [JK](https://github.com/Shakil-RU/verilog_HDL/blob/main/Flip-Flop/JK.v)
-  - [D](https://github.com/Shakil-RU/verilog_HDL/blob/main/Flip-Flop/D%20flip-flop)
+  - [D](https://github.com/Shakil-RU/verilog_HDL/blob/main/Flip-Flop/D%20flip-flop.v)
   - [T](https://github.com/Shakil-RU/verilog_HDL/blob/main/Flip-Flop/T%20flip-flop)
   - [Master-Slave](https://github.com/Shakil-RU/verilog_HDL/blob/main/Flip-Flop/master%20slave%20jk)
 ## Adder
