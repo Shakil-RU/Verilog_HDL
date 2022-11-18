@@ -1,1 +1,9 @@
-# verilog HDL(Hardware Description Language)
+###verilog HDL
+
+ ##Basic Gates
+  - [NOT]()
+  - [OR]()
+  - [AND]()
+  - [X-OR]()
+  - [X-NOR]()
+##
