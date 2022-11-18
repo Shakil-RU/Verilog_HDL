@@ -24,7 +24,7 @@
   - [full subtractor]()
 ## Code converter
  - [Binary to Gray](https://github.com/Shakil-RU/verilog_HDL/blob/main/Code%20converter/Binary%20to%20gray%20conversion.v)
- - [Gray to Binary]()
+ - [Gray to Binary](https://github.com/Shakil-RU/verilog_HDL/blob/main/Code%20converter/Gray%20to%20binary.v)
  - [BCD to Excess-3](https://github.com/Shakil-RU/verilog_HDL/blob/main/Code%20converter/BCD_To_Excess-3.v)
  - [Excess-3 to BCD]()
 ## Encoder and Decoder
