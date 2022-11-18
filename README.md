@@ -30,6 +30,7 @@
 ## Encoder and Decoder
  - [3 to 8 decoder]()
 ## Multiplexer
- - [4 to 1mux]()
+ - [2 to 1 mux]()
+ - [4 to 1 mux]()
  - [8 to 1 mux]()
 
