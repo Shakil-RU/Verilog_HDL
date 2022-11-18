@@ -21,7 +21,7 @@
   - [carry look ahead adder](https://github.com/Shakil-RU/verilog_HDL/blob/main/Adder/carry%20look%20ahead%20adder.v)
 ## Subtractor
   - [half subtractor](https://github.com/Shakil-RU/verilog_HDL/blob/main/Subtractor/half%20subtractor.v)
-  - [full subtractor]()
+  - [full subtractor](https://github.com/Shakil-RU/verilog_HDL/blob/main/Subtractor/half%20subtractor.v)
 ## Code converter
  - [Binary to Gray](https://github.com/Shakil-RU/verilog_HDL/blob/main/Code%20converter/Binary%20to%20gray%20conversion.v)
  - [Gray to Binary](https://github.com/Shakil-RU/verilog_HDL/blob/main/Code%20converter/Gray%20to%20binary.v)
