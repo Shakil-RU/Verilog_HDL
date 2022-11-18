@@ -3,7 +3,7 @@
  ## Basic Gates
   - [NOT](https://github.com/Shakil-RU/verilog_HDL/blob/main/Basic%20Gates/not)
   - [OR](https://github.com/Shakil-RU/verilog_HDL/blob/main/Basic%20Gates/OR%20gate)
-  - [AND]()
+  - [AND](https://github.com/Shakil-RU/verilog_HDL/blob/main/Basic%20Gates/AND%20gate)
   - [X-OR]()
   - [X-NOR]()
 ## Flip-Flop
