@@ -30,7 +30,7 @@
 ## Encoder and Decoder
  - [3 to 8 decoder](https://github.com/Shakil-RU/verilog_HDL/blob/main/Encoder%20And%20Decoder/3%20to%208%20decoder.v)
 ## Multiplexer
- - [2 to 1 mux]()
+ - [2 to 1 mux](https://github.com/Shakil-RU/verilog_HDL/blob/main/Multiplexer/2%20to%201%20mux.v)
  - [4 to 1 mux]()
  - [8 to 1 mux]()
 
