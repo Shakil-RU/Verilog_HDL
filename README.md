@@ -24,6 +24,8 @@
   - [full subtractor](https://github.com/Shakil-RU/verilog_HDL/blob/main/Subtractor/half%20subtractor.v)
 ## Adder-Subtractor
  - [4 bit adder-subtractor](https://github.com/Shakil-RU/verilog_HDL/blob/main/Adder-Subtractor/4-bit%20adder-subtractor.v)
+## Comparator
+ - [2 bit magnitude comparator](https://github.com/Shakil-RU/verilog_HDL/blob/main/Comparator/2-bit%20magnitude%20comparator.v)
 ## Code converter
  - [Binary to Gray](https://github.com/Shakil-RU/verilog_HDL/blob/main/Code%20converter/Binary%20to%20gray%20conversion.v)
  - [Gray to Binary](https://github.com/Shakil-RU/verilog_HDL/blob/main/Code%20converter/Gray%20to%20binary.v)
