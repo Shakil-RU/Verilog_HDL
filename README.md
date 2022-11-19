@@ -41,4 +41,5 @@
 ## Counter
  ### Asynchronous
  - [4 bit ripple counter](https://github.com/Shakil-RU/verilog_HDL/blob/main/Counter/Asynchronous/4%20bit%20ripple%20counter.v)
+ - [mod-10 asynchronous counter](https://github.com/Shakil-RU/verilog_HDL/blob/main/Counter/Asynchronous/mod-10%20asynchronous%20counter.v)
 
