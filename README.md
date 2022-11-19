@@ -33,5 +33,5 @@
 ## Multiplexer
  - [2 to 1 mux](https://github.com/Shakil-RU/verilog_HDL/blob/main/Multiplexer/2%20to%201%20mux.v)
  - [4 to 1 mux](https://github.com/Shakil-RU/verilog_HDL/blob/main/Multiplexer/4%20to%201%20mux.v)
- - [8 to 1 mux]()
+ - [8 to 1 mux](https://github.com/Shakil-RU/verilog_HDL/blob/main/Multiplexer/8%20to%201%20mux.v)
 
