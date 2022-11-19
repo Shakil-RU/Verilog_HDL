@@ -28,7 +28,7 @@
  - [BCD to Excess-3](https://github.com/Shakil-RU/verilog_HDL/blob/main/Code%20converter/BCD_To_Excess-3.v)
  - [Excess-3 to BCD](https://github.com/Shakil-RU/verilog_HDL/blob/main/Code%20converter/Excess_3%20to%20BCD.v)
 ## Encoder and Decoder
- - [3 to 8 decoder]()
+ - [3 to 8 decoder](https://github.com/Shakil-RU/verilog_HDL/blob/main/Encoder%20And%20Decoder/3%20to%208%20decoder.v)
 ## Multiplexer
  - [2 to 1 mux]()
  - [4 to 1 mux]()
