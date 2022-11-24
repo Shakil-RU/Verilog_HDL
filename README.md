@@ -44,5 +44,6 @@
  - [mod-10 asynchronous counter](https://github.com/Shakil-RU/verilog_HDL/blob/main/Counter/Asynchronous/mod-10%20asynchronous%20counter.v)
  ### Synchronous
   - [4 bit random sequence synchronous counter](https://github.com/Shakil-RU/verilog_HDL/blob/main/Counter/synchronous/4%20bit%20random%20sequence%20synchronous%20counter.v)
+  - [Synchronous UP-Down Counter](https://github.com/Shakil-RU/verilog_HDL/blob/main/Counter/synchronous/up-down_counter.v)
   
 
