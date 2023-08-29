@@ -1,3 +1,6 @@
+Name: Abdullah Numan Shakil. </br>
+Dept. of Computer Science & Engineering.</br>
+University of Rajshahi.
 # verilog HDL(Hardware Description Language)
 
  ## Basic Gates
